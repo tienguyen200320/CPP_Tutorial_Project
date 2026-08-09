@@ -1,3 +1,0 @@
-C:/Users/DELL/tien/Desktop/Software_Learning/ProjectCPP/build/CMakeFiles/my_test.dir
-C:/Users/DELL/tien/Desktop/Software_Learning/ProjectCPP/build/CMakeFiles/edit_cache.dir
-C:/Users/DELL/tien/Desktop/Software_Learning/ProjectCPP/build/CMakeFiles/rebuild_cache.dir
