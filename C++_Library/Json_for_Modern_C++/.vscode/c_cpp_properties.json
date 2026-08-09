@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "Windows",
+            "includePath": [
+                "${workspaceFolder}",
+                "C:/Users/DELL/tien/Desktop/Software_Learning/Library/json/include"
+            ],
+            "defines": [],
+            "compilerPath": "C:/msys64/ucrt64/bin/c++.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "gcc-x64"
+        }
+    ],
+    "version": 4
+}

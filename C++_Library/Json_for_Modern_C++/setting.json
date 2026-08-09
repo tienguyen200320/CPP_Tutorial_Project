@@ -1,0 +1,11 @@
+{
+    "threads_count": 4,
+    "sever" : {
+        "host": "localhost",
+        "port": 8080
+    },
+    "database": {
+        "username": "tien",
+        "password": "nvt123"
+    }
+}

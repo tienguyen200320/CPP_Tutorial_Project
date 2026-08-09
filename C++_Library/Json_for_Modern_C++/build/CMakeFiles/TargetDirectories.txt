@@ -1,0 +1,3 @@
+C:/Users/DELL/tien/Desktop/Software_Learning/ProjectCPP/C++_Library/Json_for_Modern_C++/build/CMakeFiles/json_handling_in_cpp.dir
+C:/Users/DELL/tien/Desktop/Software_Learning/ProjectCPP/C++_Library/Json_for_Modern_C++/build/CMakeFiles/edit_cache.dir
+C:/Users/DELL/tien/Desktop/Software_Learning/ProjectCPP/C++_Library/Json_for_Modern_C++/build/CMakeFiles/rebuild_cache.dir
