@@ -21,7 +21,7 @@ jobs:
         run: cmake -S . -B build
 
       - name: Build GoogleTest only
-        run: cmake --build build --target ggtest
+        run: cmake --build build --target my_test
 
       - name: Run GoogleTest
-        run: ./build/ggtest
+        run: ./build/my_test
